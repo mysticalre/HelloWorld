@@ -3,7 +3,7 @@ public class Main
     public Main()
     {
 		System.out.println(helloWorld());
-		//heyy ey heyyyassdasd
+		//heyy ey heyyyasssd
     }
 
     public static String helloWorld()
