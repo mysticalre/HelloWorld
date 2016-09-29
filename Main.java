@@ -3,7 +3,7 @@ public class Main
     public Main()
     {
 		System.out.println("master checking in massive logasaurus");
-		//heyasdasdasdxfvxcvassdasddasdsasd
+		//heyasdasdasdxfvassdasddasdsasd
     }
 
     public static String helloWorld()
